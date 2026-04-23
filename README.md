@@ -1,5 +1,8 @@
 ## Summary
 The device exposes sensitive system and firmware information through unauthenticated endpoints such as /digest/frmGetFactoryInfo. An attacker can retrieve detailed device metadata - including firmware version, serial number, hardware details, and vendor information - without authentication. This information can be leveraged for device fingerprinting, targeted exploitation, and reconnaissance, significantly increasing the attack surface.
+<p align="center">
+  <img src="ipcam.jpg" alt="IP Camera" width="500"/>
+</p>
 
 ## Affected Device
 - **Device**: Zebronics IPPBSL5 Network Camera  
