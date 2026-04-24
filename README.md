@@ -11,7 +11,7 @@ The device exposes sensitive system and firmware information through unauthentic
  ## Affected Components
 - `ovfs_webserver`
 - Authentication handler (`web_semantic_authA`)
-- Endpoints:
+- Endpoint:
   - `/digest/frmGetFactoryInfo`
 
 ## Vulnerability Details
